@@ -1,0 +1,1 @@
+ 1000 Gel 200 5 1001 cream 200 3 1002 eye 0 3 1003 eye_liner 300 5 1004 lip-balm 100 5
